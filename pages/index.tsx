@@ -6,7 +6,7 @@ const IndexPage = () => {
           Next.js Template Page
         </p>
         <div className="grid grid-cols-2 flex items-center">
-          <a className="text-3xl flex items-center justify-center font-bold text-indigo-500 underline" href="https://github.com/GleemingKnight/next-tailwind-template">
+          <a className="text-3xl flex items-center justify-center font-bold text-indigo-500 underline" href="https://github.com/GleemingKnight/nextjs-tailwind-template">
             <GithubIcon />
             <p className="ml-2">Github</p>
           </a>
